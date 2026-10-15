@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Saniya Shaikh 👋
 
-<!--
-**saniya-shaikhh/saniya-shaikhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Telecommunication Engineering — 2026
 
-Here are some ideas to get you started:
+💻 Interested in Java Full Stack Development and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Certified Java Full Stack Developer
+- Learning Data Science and Analytics
+- Practicing Python, SQL, and Java programming
+- Interested in software development and data-driven problem solving
+
+## Technical Skills
+- **Programming:** Java, Python, SQL, C, C++
+- **Web Development:** HTML, CSS, JavaScript, React.js, Spring Boot
+- **Database:** MySQL
+- **Tools:** Eclipse, VS Code, Microchip Studio
+
+## Projects
+- **Java Basics:** Beginner Java programs and programming practice.
+- **IoT-Based Smart Water Quality Monitoring System:** Academic project focused on monitoring water quality using sensors and IoT communication.
+
+## Current Learning
+- SQL and data analysis
+- Data cleaning and exploratory data analysis
+- Advanced Excel and Power BI (planned)
+
+Thanks for visiting my profile!
